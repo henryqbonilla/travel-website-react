@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/travel-website-react/static/css/main.1b872cc4.css",
+    "main.js": "/travel-website-react/static/js/main.a3cdb887.js",
+    "static/media/video (2).mp4": "/travel-website-react/static/media/video (2).9ecdf0e4f71a09df76f6.mp4",
+    "static/media/video.mp4": "/travel-website-react/static/media/video.bb9ced1bb519783b651f.mp4",
+    "static/media/great_barrier_reef.jpg": "/travel-website-react/static/media/great_barrier_reef.abaa686f76d414c87592.jpg",
+    "static/media/bali_island.jpg": "/travel-website-react/static/media/bali_island.1e6aaee41d9e47efe830.jpg",
+    "static/media/borabora.jpg": "/travel-website-react/static/media/borabora.f584ed049637a1154d44.jpg",
+    "static/media/machupicchu.jpg": "/travel-website-react/static/media/machupicchu.fc2b29d19cc9802df361.jpg",
+    "static/media/cappadocia.jpg": "/travel-website-react/static/media/cappadocia.d6b444aa38179a597133.jpg",
+    "static/media/taj_mahal.jpg": "/travel-website-react/static/media/taj_mahal.a534efb4c00638700a17.jpg",
+    "static/media/guanajuato.jpg": "/travel-website-react/static/media/guanajuato.6f784645bf8a5dd06c40.jpg",
+    "static/media/cinque_terre.jpg": "/travel-website-react/static/media/cinque_terre.33c64ea69e9e9a290288.jpg",
+    "static/media/angkor_wat.jpg": "/travel-website-react/static/media/angkor_wat.272c3e774a622c177c02.jpg",
+    "index.html": "/travel-website-react/index.html",
+    "main.1b872cc4.css.map": "/travel-website-react/static/css/main.1b872cc4.css.map",
+    "main.a3cdb887.js.map": "/travel-website-react/static/js/main.a3cdb887.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b872cc4.css",
+    "static/js/main.a3cdb887.js"
+  ]
+}
